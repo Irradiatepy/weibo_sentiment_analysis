@@ -19,7 +19,7 @@ Hi everybody，
 
 ## 联系方式
 
-1375557533@qq.com
+whiterbear@qq.com
 
 
 如果你想要微博数据，或者想要包含中间处理pickle数据的代码，可以发邮件给我。
